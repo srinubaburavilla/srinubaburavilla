@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Srinubabu Ravilla</h1>
 <h3 align="center">A passionate frontend and backend developer from Hyderabad, India</h3>
 
-- 🌱 I’m currently learning **Angular, React, TypeScript**
+🌱 I’m currently learning **Angular, React, TypeScript**
 
-- 📝 I regularly write articles on [https://dotnetcookie.blogspot.com/](https://dotnetcookie.blogspot.com/)
+📝 I regularly write articles on [https://dotnetcookie.blogspot.com/](https://dotnetcookie.blogspot.com/)
 
 ### 💬 Ask me about 
 
@@ -15,9 +15,9 @@
 |Versioning controls|_SVN, Git and GitHub, TFS_|
 |Other technologies|_Regular Expressions, Markdown, Emmet, Windows batch commands, Windows batch commands_|
 
-- 📫 How to reach me **srinubabu.ravilla@gmail.com**
+📫 How to reach me **srinubabu.ravilla@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/srinubaburavilla/](https://www.linkedin.com/in/srinubaburavilla/)
+📄 Know about my experiences [https://www.linkedin.com/in/srinubaburavilla/](https://www.linkedin.com/in/srinubaburavilla/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
