@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinubabu Ravilla</h1>
-<h3 align="center">A passionate frontend developer from Hyderabad, India</h3>
+<h3 align="center">A passionate frontend and backend developer from Hyderabad, India</h3>
 
 - 🌱 I’m currently learning **Angular, React, TypeScript**
 
