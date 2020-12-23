@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://dotnetcookie.blogspot.com/](https://dotnetcookie.blogspot.com/)
 
-- 💬 Ask me about 
+### 💬 Ask me about 
 
 |Technologies|Skills|
 |--|--|
